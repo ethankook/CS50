@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Given an int height between 1 and 8, creates a pyramid of hashes of height int with a gap in the middle.
 int main(void)
 {
     int height;
